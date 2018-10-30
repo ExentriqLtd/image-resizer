@@ -1,0 +1,11 @@
+{
+    "name": "cordova-plugin-image-resizer",
+    "version": "0.1.2",
+    "cordova":{
+        "id":"cordova-plugin-image-resizer",
+        "platforms":[
+            "ios",
+            "android"
+        ]
+    }
+}
